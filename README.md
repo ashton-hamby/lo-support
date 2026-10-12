@@ -1,6 +1,6 @@
 # Ashton Hamby | LO Support
 
-Personal LO Support website, built as a static site for free GitHub Pages hosting.
+Personal website for Ashton Hamby, Loan Partner, offering LO Support services, built as a static site for free GitHub Pages hosting.
 
 ## Preview and publishing
 
