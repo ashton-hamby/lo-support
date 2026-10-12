@@ -1,0 +1,377 @@
+[
+  {
+    "title": "Employment History – The Work Number Report",
+    "description": "We're missing some important details about your employment history. To help us complete your loan file, please download and upload your Employment Data Report (EDR) from The Work Number. How to Get Your Report: 1. Go to The Work Number at https://employees.theworknumber.com/ 2. Click Log In and search for your employer by name or employer code. 3. If this is your first time using The Work Number, select Register Now and follow the prompts to verify your identity and create your login. 4. Once logged in, select Employee Data Report. 5. Follow the prompts to request your report and select Get Instant Online Report. 6. Download the complete Employment Data Report and upload it here. The report will help us verify your previous employers and employment dates so we can complete the employment history required for your loan approval.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Homeowner's Association Point of Contact",
+    "description": "Please provide a current point of contact for your homeowner’s association so our team can verify any dues or property requirements for approval. Share the name, phone number, and email address for the HOA or the management company. This helps us reach the right person and keep your loan file moving forward without delay.",
+    "category": "Property"
+  },
+  {
+    "title": "Condo Association Point of Contact",
+    "description": "Please provide the name, phone number, and email address for your condo association or the management company so our team can verify any property requirements for approval. Share the current and complete details for the association that oversees your unit, and this will help us reach the right person and keep your loan file moving forward without delay.",
+    "category": "Property"
+  },
+  {
+    "title": "Active Duty Orders",
+    "description": "If you are active duty, please upload a clear copy of your official orders showing your new duty station, the report date, and your arrival date, if this applies to your move. Provide all pages of the orders since this is how we confirm occupancy requirements for approval and we are not able to use screenshots in place of the actual document.",
+    "category": "Property"
+  },
+  {
+    "title": "Evidence of Receipt of Child Support Income",
+    "description": "Please upload evidence that shows you received child support income during the most recent six months, if you are using this income for approval. Any one official source will work, such as deposits that appear on your bank statements, copies of canceled checks, or written documentation from the child support agency.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Business Bank Statements",
+    "description": "Please upload official business bank statements covering the most recent three months, including all pages, so we can verify supporting assets or income for approval. Provide the full statements in your name even if some pages appear blank, and be sure to print or download them directly from your bank or online banking portal since we are not able to use screenshots in place of the actual documents.",
+    "category": "Asset"
+  },
+  {
+    "title": "VA Nearest Living Relative",
+    "description": "Please provide the contact details for your nearest living relative who does not live with you so we can meet the VA requirement for your loan file. We need their name, home address, phone number, and their relationship to you, such as parent, sibling, or adult child. This information is used only as an emergency point of contact.",
+    "category": "Borrower Info"
+  },
+  {
+    "title": "Child Support Agreement",
+    "description": "Please upload a clear copy of your final child support agreement, if this applies to you, so we can verify the terms for approval. Provide the official document in your name, such as the final divorce decree, legal separation agreement, court order, or voluntary child support payment agreement, and including all pages.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Foreclosure Documentation",
+    "description": "Please upload any official documents related to a foreclosure within the last seven years, if this applies to you, so we can verify the dates and details for approval. Provide all pages of the court or lender records since we are not able to use screenshots in place of the actual documents.",
+    "category": "Credit"
+  },
+  {
+    "title": "Profit and Loss Statement-Balance Sheet",
+    "description": "Since you are self-employed, please upload a signed and dated Profit and Loss statement so we can verify the income you are using for approval. The statement must cover January of the current calendar year through the present month, showing income and expenses from the start of this year to today. The document can be a simple breakdown that you prepare yourself and does not need to be created by an accountant. Include the business name or your personal name if you do not use a formal business name, the type of work your business does, your total gross income, total business expenses, and the net income left after expenses. For format guidance, you may follow this example. Write Profit & Loss Statement at the top, then show: Business Name: ________ Type of Business: ________ Time Period Covered: ________ Gross Income: ________ Business Expenses: ________ Net Income: ________ At the bottom of the P&L, add your certification statement that reads “I certify that this information is true and accurate to the best of my knowledge,” and sign and date the document beneath that sentence.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Employer Contact Information",
+    "description": "Please provide the best contact person at your employer who can help us verify your employment, such as someone in HR, your direct manager, or the payroll team. Include their name, phone number, and email address so our team can reach the right person and request any details needed for approval.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Permanent Resident ID",
+    "description": "Please upload a clear copy of your Permanent Resident ID, also called a green card, if this applies to you, so we can verify your residency status for the loan approval. Provide the official card image showing the front and the back so the lender can confirm your legal name and identification details.",
+    "category": "Borrower Info"
+  },
+  {
+    "title": "Military Leave and Earning Statement (LES)",
+    "description": "Please upload a clear copy of your most recent Leave and Earnings Statement that covers at least the last 30 days so we can confirm your current income. Provide the full official statement dated within the past 30 days, since we are not able to use screenshots in place of the actual document.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "DD-214 Discharge Papers or COE",
+    "description": "Please upload either your DD-214 or your VA Certificate of Eligibility so we can verify your VA home loan benefit for approval. If you have the Certificate of Eligibility, you can often download it instantly from the VA website using the link provided. When you log in, select the option to request your COE form 26-1880 and download the current letter in your name. If you do not already have a COE, upload your DD-214 instead and we will order the Certificate of Eligibility for you as soon as we receive it.",
+    "category": "Misc"
+  },
+  {
+    "title": "HOA Dues Statement with Contact Info",
+    "description": "Please upload a clear copy of your most recent HOA dues statement so we can verify the current monthly or quarterly amount for approval. Provide all pages of the official statement from the HOA or the management company, since we are not able to use screenshots in place of the actual document.",
+    "category": "Property"
+  },
+  {
+    "title": "Earnest Money / EMD Receipt",
+    "description": "Please upload a copy of the earnest money deposit check or receipt, if this applies to your purchase, so we can confirm the amount and the source of those funds for approval. Provide the clear image of the check.",
+    "category": "Asset"
+  },
+  {
+    "title": "Homeowner's Insurance Quote",
+    "description": "It is time to choose your homeowner’s insurance provider. Please upload a homeowner’s insurance quote for the property you are purchasing so we can share the details needed to finalize the policy. The quote needs to include the agent’s name, insurance company, phone number, and email address so our team can reach out and provide anything required for approval without delays.",
+    "category": "Property"
+  },
+  {
+    "title": "Community Property State - Non-Borrowing Spouse Information",
+    "description": "Please provide the legal name, current address, email address, phone number, date of birth, and Social Security number for your non-borrowing spouse so we can complete the required loan disclosures and compliance checks. This information is used only for verification purposes and does not make your spouse financially responsible for the loan.",
+    "category": "Property"
+  },
+  {
+    "title": "Federal Business Tax Returns",
+    "description": "Please upload your complete federal business tax returns from the most recent two years, including all pages and schedules, so we can verify the income for approval. Provide the entire return even if some pages appear blank, since the underwriter reviews every schedule to confirm the full history correctly.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Bankruptcy Discharge Notice",
+    "description": "Please upload a clear copy of your bankruptcy discharge notice, if this applies to you, so we can confirm the date the bankruptcy was completed for approval. Provide all pages of the official court document since we are not able to use screenshots in place of the actual notice.",
+    "category": "Credit"
+  },
+  {
+    "title": "Bankruptcy Filing",
+    "description": "Please upload a clear copy of your bankruptcy filing documents, if this applies to you, so we can verify the case type, dates, and status for approval. Provide all pages and schedules from the official court records, since we are not able to use screenshots in place of the actual documents.",
+    "category": "Credit"
+  },
+  {
+    "title": "Retirement / Pension Award Letter",
+    "description": "Please upload a clear copy of your most recent retirement or pension award letter so we can verify the current benefit amount for approval. The letter should be dated for the current period and show the payment terms in your name. Provide the full official document you received from the plan administrator, since we are not able to use older letters or screenshots in place of the actual award notice.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Disability Award Letter",
+    "description": "Please upload a clear copy of your most recent Disability Income Benefits letter that shows you are receiving disability payments so we can verify the current amount for approval. Provide all pages of the official letter dated for the current period in your name, since screenshots cannot be used in place of the actual document.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "1040 Individual Federal Tax Returns",
+    "description": "Please upload your complete federal tax returns from the most recent two years, including all pages and schedules, so we can verify your income the same way the underwriter will review it for approval. Provide the entire return even if some pages or schedules appear blank.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "VA Childcare",
+    "description": "This is a required form for the VA even if you do not have children. Please provide your current childcare cost so we can include the correct expense in your loan approval. If the childcare cost is zero, write a short reason in the explanation box, such as no children or spouse stays home with kids, and any honest explanation will work as long as a reason is stated. Please answer a few details so we can complete the form the right way. Tell us how many dependents you have, the ages of each dependent, and whether you pay for childcare right now. If you do pay childcare, provide the total amount you pay each month so we can record it correctly in your approval.",
+    "category": "Borrower Info"
+  },
+  {
+    "title": "Social Security Notice of Award Letter",
+    "description": "Please upload a clear copy of your most recent Social Security Notice of Award letter so we can verify your benefit income for approval. If you do not have a copy on hand, you can download the official benefit letter directly from the Social Security website using the link provided by selecting the option to get your current benefit letter. Provide the full document dated for the current period since we can accept only the official version and not screenshots in place of the actual letter.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Utah Veteran First-Time Homebuyer Grant",
+    "description": "Utah Veteran First-Time Homebuyer Grant Please use the link provided to complete the Utah Veteran First-Time Homebuyer Grant application. Once your application has been processed and you receive your Grant Certification, please upload a copy here so we can include it in your loan file. Application Link: https://utahgov.na1.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBar- LH5Qmnemeht_lMQa80NJ8fXKJwmVCemYgcsu39rfGP5AQQLVYfUkii34Igcvs",
+    "category": "Misc"
+  },
+  {
+    "title": "Paystubs Before and After Raise",
+    "description": "Please upload the last paystub you received before your recent pay raise and the first paystub you received after the raise so we can verify your change in pay for your loan file. Please provide the official paystubs showing your name, employer, pay period, and earnings details.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Two-Year Employment History - Prior to Gap",
+    "description": "Two-Year Employment History We need to document a full two-year employment history prior to your gap in employment. Please provide the following information for all employers or businesses you worked for during that two-year period: Employer or Business Name Employer Address Employer Phone Number Your Position or Job Title Start Date (MM/DD/YY) End Date (MM/DD/YY) This information will allow us to complete your employment history for your loan file.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Final Pay Stub - Previous Employer",
+    "description": "Please upload a clear copy of your final paystub from your previous employer so we can verify your prior employment income for your loan file. Please provide the official paystub showing your name, employer, pay period, and final earnings details.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Children's Birth Certificates",
+    "description": "Please upload a clear copy of each of your children's birth certificates so we can verify their dates of birth for your loan file. Please provide the official birth certificate for each child.",
+    "category": "Borrower Info"
+  },
+  {
+    "title": "Homeowners Insurance Agent Contact Information",
+    "description": "Please provide your homeowners insurance agent's contact information, including their name, email address, and phone number. If you do not have a copy of your current homeowners insurance policy, we can contact your agent directly to obtain the information needed for your loan file.",
+    "category": "Property"
+  },
+  {
+    "title": "Federal Tax ID (EIN) Confirmation – LLC",
+    "description": "Please upload a clear copy of your Federal Tax ID (EIN) confirmation for your LLC so we can verify the business information for your loan file. This can be your IRS EIN Confirmation Letter (CP 575) or another official IRS document showing the business name and Employer Identification Number (EIN).",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Operating / Partnership Agreement – LLC",
+    "description": "Please upload a clear copy of your LLC Operating Agreement or Partnership Agreement so we can verify the ownership structure and each member's ownership interest in the business for your loan file. Please include all relevant pages, including any amendments, that show the ownership percentages, member information, and management structure.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Articles of Incorporation – LLC",
+    "description": "Please upload a clear copy of the Articles of Incorporation or Articles of Organization for your LLC so we can verify the business formation details for your loan file. Please provide the official document filed with the state showing the business name and formation information.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Certificate of Good Standing – LLC",
+    "description": "Please upload a current Certificate of Good Standing for your LLC so we can verify that the business is active and in good standing with the state. Provide the official certificate issued by the state where the LLC is registered.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Work Visa/EAD Card",
+    "description": "Please upload a clear copy of your Visa or Employment Authorization Document (EAD) card, if applicable, so we can verify your authorization to reside and work in the United States for your loan file. Please include clear images of the front and back of the official document.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "IRA/401K",
+    "description": "Please upload your most recent monthly or quarterly retirement account statements, and include all pages even if some pages appear blank, so we can verify reserves for approval. The statements need to be dated within the last sixty days to be accepted. Be sure to print or download the documents directly from the investment company or your online portal since we are not able to use screenshots in place of the actual statements.",
+    "category": "Asset"
+  },
+  {
+    "title": "Work Location Address",
+    "description": "Please provide the address where you report to work at your current job so we can document your employment details correctly for your loan file. Include the full street address, city, state, and ZIP code. If you work remotely, please let us know and provide the address of your assigned office or work location, if applicable.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "24-Month Residence History",
+    "description": "Please provide your physical address history for the most recent 24 months so we can complete your housing history for the loan file. For each address, tell us whether you owned, rented, or lived rent free, the monthly rent or mortgage payment, and the dates you lived there, including the month and year you moved in and out. This information helps us document your residence history accurately.",
+    "category": "Property"
+  },
+  {
+    "title": "Frozen Credit Bureaus",
+    "description": "Do you currently have any of your credit bureaus frozen? If so, please type yes below and unfreeze them when you’re able. Once the freezes are lifted, let us know so we can continue moving forward with your pre-approval.",
+    "category": "Credit"
+  },
+  {
+    "title": "Federal Tax Extension",
+    "description": "Please upload a clear copy of your current federal income tax extension filing so we can verify the extension status for your loan file. Provide the official document filed with the IRS showing your name and the applicable tax year.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Opt-Out of Spam Calls",
+    "description": "When a credit report is pulled, the credit bureaus may share your contact information, which can lead to spam calls or texts. While we can’t prevent this, you can reduce it by opting out. Please visit https://www.optoutprescreen.com and select “Electronic Opt Out for 5 Years.” Once you’ve completed the opt-out, type “done” below to let us know.",
+    "category": "Credit"
+  },
+  {
+    "title": "Investment Account Statements",
+    "description": "Please upload your most recent two months of official investment account statements so we can verify your assets for your loan file. The statements should include all pages, even if some pages are blank, and clearly show your name, account number, and current balance. Please download the statements directly from your financial institution or online portal, as screenshots or phone captures cannot be accepted in place of official statements.",
+    "category": "Asset"
+  },
+  {
+    "title": "Non-Borrowing Spouse Information",
+    "description": "Please provide the legal name, email address, and phone number for your non-borrowing spouse so we can complete the required loan disclosures.",
+    "category": "Borrower Info"
+  },
+  {
+    "title": "Settlement Statement – Home Sale",
+    "description": "Please upload a clear copy of the settlement statement from your recent home sale so we can verify the sale proceeds and document the transaction in your loan file. Include all pages of the official statement.",
+    "category": "Asset"
+  },
+  {
+    "title": "2 Year Employment History",
+    "description": "We need to document a full two years of employment history. Can you please provide the following information for all previous employers since January 2024? -Employer or Business Name -Employer Address -Employer Phone Number -Your Position or Title -Start Date (MM/DD/YY) -End Date (MM/DD/YY)",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Verification of Rent",
+    "description": "Please upload documentation showing your rent payments for the most recent twelve months so we can verify your rental history for approval. We can accept canceled checks or bank statements that clearly show each rent payment during that period.",
+    "category": "Property"
+  },
+  {
+    "title": "Preliminary Closing Disclosure",
+    "description": "Please upload a clear copy of the preliminary closing disclosure from the sale of your home so we can verify the estimated proceeds you will receive at closing. This document helps us confirm the expected funds for your loan approval.",
+    "category": "Asset"
+  },
+  {
+    "title": "Employment Offer Letter",
+    "description": "Please upload a clear copy of your employment offer letter so we can verify your position, start date, and compensation for approval. Provide the official document from your employer that includes your name and employment details.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Legal Name Change Document",
+    "description": "Please upload a clear copy of your legal name change document, such as a marriage certificate, divorce decree, or court- ordered name change, so we can confirm the difference between the names appearing in your records. Provide the official document showing both your previous and current legal name.",
+    "category": "Borrower Info"
+  },
+  {
+    "title": "Social Security Card Copy",
+    "description": "Please upload a clear copy of your Social Security card so we can verify your Social Security number and legal name for your loan file. Provide the official card image showing your name and number clearly.",
+    "category": "Borrower Info"
+  },
+  {
+    "title": "CPA Contact Information",
+    "description": "Please provide the phone number and email address for your CPA or tax preparer so we can reach them directly if a letter of explanation or copies of tax returns are needed. This allows us to coordinate quickly and gather anything required for your loan file.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Landlord Contact Information",
+    "description": "We will need a written verification of rent for your loan approval. I can help prepare the form for you, but I need your landlord’s name and current contact information so we can ask them to complete the Verification of Rent document. Please share the landlord’s name, phone number, and email address so our team can reach the right person and keep your loan file moving forward without delay.",
+    "category": "Property"
+  },
+  {
+    "title": "Rental Agreements / Lease Agreements",
+    "description": "Please upload a clear copy of your current lease or rental agreement in your name so we can verify the monthly payment details for approval. Provide all pages of the official agreement, even if some sections appear blank.",
+    "category": "Property"
+  },
+  {
+    "title": "Purchase Agreement",
+    "description": "Please upload your complete purchase agreement signed by all parties, including any counter offers and addendums. This helps us confirm the price, credits, and other terms of your home purchase for the approval. If you do not have a copy on hand, your real estate agent can provide the full contract from their records so every detail is included correctly in your loan file.",
+    "category": "Property"
+  },
+  {
+    "title": "Debt Statement",
+    "description": "Please upload the most recent official statement for each debt listed below that appears on your credit report, if this applies to you, so we can verify the current payment and balance details for approval.",
+    "category": "Credit"
+  },
+  {
+    "title": "Mortgage Payoff",
+    "description": "Please upload a clear copy of your current mortgage payoff statement that you downloaded directly from your loan servicer’s website, if this applies to you, so the lender can verify the exact balance and any interest due for approval. Provide all pages of the official payoff quote in your name since we are not able to use screenshots in place of the actual document. This helps us include the correct payoff details in your loan file and keep your approval moving forward without delay.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Divorce Decree",
+    "description": "Please upload a clear copy of your final divorce decree or court order, if this applies to you, so we can document any obligation to pay alimony or child support for approval. Provide all pages of the official document in your name even if some sections appear blank.",
+    "category": "Misc"
+  },
+  {
+    "title": "Retirement Account Terms of Withdrawal",
+    "description": "To use your retirement account as reserves for your home loan, we need a clear copy of the account’s Terms of Withdrawal so the lender can confirm how the funds may be accessed. The easiest way to get this is to call your investment company, and they are familiar with this request and can send the document to you quickly by email. Please upload the full official terms in your name once you receive it.",
+    "category": "Asset"
+  },
+  {
+    "title": "2025 Profit & Loss Statement",
+    "description": "Since you are self-employed, please upload a signed and dated Profit and Loss statement so we can verify the income you are using for approval. The statement must cover January through December 2025, showing income and expenses from the start of this year to today. The document can be a simple breakdown that you prepare yourself and does not need to be created by an accountant. Include the business name or your personal name if you do not use a formal business name, the type of work your business does, your total gross income, total business expenses, and the net income left after expenses. For format guidance, you may follow this example. Write Profit & Loss Statement at the top, then show: Business Name: ________ Type of Business: ________ Time Period Covered: ________ Gross Income: ________ Business Expenses: ________ Net Income: ________ At the bottom of the P&L, add your certification statement that reads “I certify that this information is true and accurate to the best of my knowledge,” and sign and date the document beneath that sentence.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "How to Download Your Coinbase Statement(s)",
+    "description": "Steps to generate a statement: 1. Sign in: to your Coinbase account. 2. Navigate to Statements: by going to Settings > Accounts > Statements in the main menu. Alternatively, on some platforms, you may find \"Statements\" under a \"Menu\" or profile icon. 3. Choose your statement type: 1. Monthly statement: To download a pre-existing statement, select the month and choose a format like PDF or CSV. 2. Custom statement: To create a custom report, select the \"Generate a custom statement\" option. 4. Configure your custom statement: by selecting the asset, transaction type, and date range. 5. Generate the report: Click \"Generate Report\" to create the statement. It will then be available for download. 6. Save your file: Download the file (PDF, CSV, etc.) to your device.",
+    "category": "Asset"
+  },
+  {
+    "title": "Klarna Loan Verification",
+    "description": "There are deductions on your bank statement indicating liabilities not reflected on credit report. We need to provide documentation to support the monthly liability payment to be included in ratios for the following deductions: Where can I find my Klarna balance statements? By logging in to the app: 1. Go to Wallet 2. Select your balance 3. Go to Settings 4. Under Paperwork, tap Documents Account statements are exclusively available digitally.",
+    "category": "Credit"
+  },
+  {
+    "title": "Affirm Loan Verification",
+    "description": "There are deductions on your bank statement indicating liabilities not reflected on credit report. We need to provide documentation to support the monthly liability payment to be included in ratios for the following deductions: Request a loan verification To view or download the document verifying your loan, tap or click the View Loan Verification Document button below. View Loan Verification Document You can also find this information in the Affirm app or at affirm.com by following the steps below. On mobile in the Affirm app: 1. Sign into your account in the Affirm app. 2. Tap the Manage tab. 3. Tap the loan you want loan verification documentation for. 4. Select the Details tab. 5. Select Loan verification. Once your request has been processed, the verification document will appear on the screen. 1. To send, print, or save the document, tap the Share icon in the top right corner of the screen. On desktop at affirm.com: 1. Sign into your account at affirm.com. 2. Click the Manage tab at the top of the screen. 3. Select the loan you want loan verification documentation for. 4. Click the Details tab on the applicable loan. 5. Select Loan Verification Document. 1. Make sure you’ve enabled pop-ups as the document will be downloaded as a pop-up. 6. Save the file.",
+    "category": "Credit"
+  },
+  {
+    "title": "Transfer of Gift Funds",
+    "description": "We will need to verify and document the transfer of the gift funds with one of the following: the donor’s bank statement showing the withdrawal a copy of the donor’s canceled check a copy of the donor’s withdrawal receipt evidence of the electronic transfer of funds from the donor’s account",
+    "category": "Asset"
+  },
+  {
+    "title": "IRS Tax Transcripts",
+    "description": "Please help us access your tax transcripts from the IRS website, and this should take only a few minutes. Go to https://www.irs.gov/individuals/get-transcript and create an account or log in with your information, then download your Record of Account Transcript for the most recent tax year available. Upload the full official transcript in your name so we can verify your income the same way the underwriter will review it and keep your approval moving forward without delay.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "DOD Verification of Employment",
+    "description": "We need a verification of employment. The DOD requires that you get this for us. Please follow these steps and email it to ahamby@umortgage.com. 1. Log into the DCPDS Portal at https://compo.dcpds.cpms.osd.mil/ 2. Select My Biz and then Employment Verification 3. Select your details to share - b. Employment and Salary Information 4. Enter recipient’s email information in the To field 5. Verify that your desired email address is included in the My Email field to receive the password 6. Select Continue to preview the information 7. Select Acknowledge and Submit to send your EV information 8. Confirm your submission 9. Provide password to recipient to view EV information",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Unfreeze Your Credit Reports",
+    "description": "Please unfreeze your Equifax, TransUnion, and Experian credit reports as soon as you are able so we can continue with your loan approval. You can contact Equifax at (888) 298-0045, TransUnion at (800) 916-8800, and Experian at (888) 397-3742 to complete this request. Tell us in the task box when the reports are unfrozen so we can confirm and keep your file moving forward without delay.",
+    "category": "Credit"
+  },
+  {
+    "title": "Recent Utility Bill or Pay Stub",
+    "description": "Please upload a clear copy of a recent utility bill that shows your full mailing address so we can verify occupancy for approval.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Gift Information",
+    "description": "If you are receiving a gift for your home purchase, please provide the gift giver’s name, your relationship to them, the gift amount, their phone number, and their email address so we can prepare the required gift documents for approval.",
+    "category": "Asset"
+  },
+  {
+    "title": "School Transcripts",
+    "description": "Please upload a clear copy of your school transcripts covering the most recent two years so we can confirm your enrollment during that period for approval. Provide all pages of the official transcripts in your name, even if some pages appear blank.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "VA Compensation Benefits Letter",
+    "description": "Please upload a clear copy of your most recent VA compensation benefits letter so we can verify the current benefit amount for approval. Provide all pages of the official letter dated for the current period, since we are not able to use screenshots in place of the actual document.",
+    "category": "Misc"
+  },
+  {
+    "title": "Re-Enlistment or Extension Documentation",
+    "description": "Your most recent Leave and Earnings Statement indicates that the current term of active service may end less than twelve months after your loan closing. Please upload official documentation showing you have already re-enlisted or extended your active duty service to a date at least twelve months after closing, if that has been completed. If you have not completed the re-enlistment or extension yet, please provide a written statement that you intend to re-enlist or extend your active duty service to a date at least twelve months after closing, and a statement from your commanding officer confirming you are eligible to re-enlist or extend as indicated and they have no reason to believe the request will be denied.",
+    "category": "Income/Employment"
+  },
+  {
+    "title": "Explanation for Credit Inquiries",
+    "description": "Please tell us the purpose of each credit inquiry shown below and upload copies of any official documents for new loans that resulted from those inquiries.",
+    "category": "Credit"
+  },
+  {
+    "title": "Explanation for Addresses Not on Application",
+    "description": "",
+    "category": "Borrower Info"
+  }
+]
