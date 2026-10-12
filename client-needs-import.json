@@ -331,7 +331,7 @@
   },
   {
     "title": "DOD Verification of Employment",
-    "description": "We need a verification of employment. The DOD requires that you get this for us. Please follow these steps and email it to ahamby@umortgage.com. 1. Log into the DCPDS Portal at https://compo.dcpds.cpms.osd.mil/ 2. Select My Biz and then Employment Verification 3. Select your details to share - b. Employment and Salary Information 4. Enter recipient’s email information in the To field 5. Verify that your desired email address is included in the My Email field to receive the password 6. Select Continue to preview the information 7. Select Acknowledge and Submit to send your EV information 8. Confirm your submission 9. Provide password to recipient to view EV information",
+    "description": "We need a verification of employment. The DOD requires that you get this for us. Please follow these steps and email it to ahamby@nexalending.com. 1. Log into the DCPDS Portal at https://compo.dcpds.cpms.osd.mil/ 2. Select My Biz and then Employment Verification 3. Select your details to share - b. Employment and Salary Information 4. Enter recipient’s email information in the To field 5. Verify that your desired email address is included in the My Email field to receive the password 6. Select Continue to preview the information 7. Select Acknowledge and Submit to send your EV information 8. Confirm your submission 9. Provide password to recipient to view EV information",
     "category": "Income/Employment"
   },
   {
@@ -371,7 +371,7 @@
   },
   {
     "title": "Explanation for Addresses Not on Application",
-    "description": "",
+    "description": "During our review, we identified the following addresses associated with your name that were not listed on your loan application.\nPlease provide a brief, signed and dated letter explaining your connection to each address. Let us know whether you previously lived at the address, owned the property, used it as a mailing address, or have another connection to it.\nIf you have no connection to an address, please confirm that in your explanation.",
     "category": "Borrower Info"
   }
 ]
