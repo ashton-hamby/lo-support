@@ -10,7 +10,29 @@ const escapeHtml=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">"
 function filter(){const q=search.value.trim().toLowerCase(),c=category.value,p=purpose.value;let n=0;for(const item of container.querySelectorAll(".item")){const show=(!q||item.dataset.search.includes(q))&&(!c||item.dataset.category===c)&&(!p||item.dataset.purpose.split(" ").includes(p));item.hidden=!show;if(show)n++}count.textContent=n+" request"+(n===1?"":"s")+" shown";document.getElementById("empty").hidden=n!==0}
 search.addEventListener("input",filter);category.addEventListener("change",filter);purpose.addEventListener("change",filter);
 document.getElementById("reset").addEventListener("click",()=>{search.value="";category.value="";purpose.value="";filter();search.focus()});
-container.addEventListener("click",async event=>{const button=event.target.closest("[data-copy]");if(!button)return;const id=button.dataset.copy,el=document.getElementById("desc-"+id),status=document.getElementById("status-"+id);if(!el||!el.innerText.trim())return;const value=el.innerText;try{if(navigator.clipboard&&window.isSecureContext){await navigator.clipboard.writeText(value)}else{const temp=document.createElement("textarea");temp.value=value;document.body.appendChild(temp);temp.select();if(!document.execCommand("copy"))throw Error("copy failed");temp.remove()}status.textContent="Copied to clipboard."}catch(e){status.textContent="Copy unavailable. Select the description and copy it manually."}});
+container.addEventListener("click",async event=>{
+const button=event.target.closest("[data-copy]");if(!button)return;
+const id=button.dataset.copy,el=document.getElementById("desc-"+id),status=document.getElementById("status-"+id);
+if(!el||!el.innerText.trim())return;
+const plain=el.innerText;
+const rich='<div style="white-space:pre-wrap">'+el.innerHTML+'</div>';
+try{
+if(navigator.clipboard&&window.ClipboardItem&&window.isSecureContext){
+const item=new ClipboardItem({"text/html":new Blob([rich],{type:"text/html"}),"text/plain":new Blob([plain],{type:"text/plain"})});
+await navigator.clipboard.write([item]);
+status.textContent="Copied with formatting.";
+}else{
+const selection=window.getSelection(),range=document.createRange();
+range.selectNodeContents(el);selection.removeAllRanges();selection.addRange(range);
+const copied=document.execCommand("copy");selection.removeAllRanges();
+if(!copied)throw Error("copy failed");
+status.textContent="Copied. Formatting depends on the destination.";
+}
+}catch(e){
+try{await navigator.clipboard.writeText(plain);status.textContent="Copied as plain text (rich formatting unavailable)."}
+catch(err){status.textContent="Copy unavailable. Select the description and copy it manually.";}
+}
+});
 async function loadImported(){try{const response=await fetch("./client-needs-import.json",{cache:"no-cache"});if(!response.ok)throw Error("import not found");const entries=await response.json();if(!Array.isArray(entries))throw Error("invalid import");entries.forEach((entry,index)=>{const id="import-"+index,card=document.createElement("article");card.className="item";card.dataset.purpose="Reference";card.dataset.category=entry.category;card.dataset.search=(entry.title+" "+entry.category+" "+entry.description).toLowerCase();const noDescription=!entry.description.trim();card.innerHTML='<div class="item-head"><div><span class="category">'+escapeHtml(entry.category)+'</span><h3>'+escapeHtml(entry.title)+'</h3></div><button type="button" class="copy" data-copy="'+id+'" aria-label="Copy '+escapeHtml(entry.title)+' description"'+(noDescription?' disabled title="No description in source document"':'')+'><span aria-hidden="true">⧉</span> Copy description</button></div><p class="description" id="desc-'+id+'">'+(noDescription?'<em>No description was included in the source PDF.</em>':escapeHtml(entry.description))+'</p><span class="status" id="status-'+id+'" role="status" aria-live="polite"></span>';container.appendChild(card)});filter()}catch(error){const warning=document.createElement("p");warning.className="notice";warning.textContent="Additional requests could not be loaded. Please refresh this page.";container.after(warning)}}
 filter();loadImported();
 </script></body></html>
