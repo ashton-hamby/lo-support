@@ -373,5 +373,10 @@
     "title": "Explanation for Addresses Not on Application",
     "description": "During our review, we identified the following addresses associated with your name that were not listed on your loan application.\nPlease provide a <strong>brief, signed and dated letter</strong> explaining your connection to each address. Let us know whether you previously lived at the address, owned the property, used it as a mailing address, or have another connection to it.\nIf you have no connection to an address, please confirm that in your explanation.",
     "category": "Borrower Info"
+  },
+  {
+    "title": "Property Tax Bills – All Properties Owned",
+    "description": "<strong>Property Tax Bills – All Properties Owned</strong>\nPlease upload a copy of the <strong>most recent property tax bill for each property you currently own</strong> so we can verify the current property taxes.\nPlease include <strong>all pages of each tax bill</strong>, even if some pages are blank. Each bill should show the property address, tax year, and amount assessed.\nYou can download official property tax bills from your county property tax website or request copies from your local tax assessor or treasurer's office.",
+    "category": "Property"
   }
 ]
