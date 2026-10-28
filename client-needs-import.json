@@ -65,8 +65,8 @@
     "category": "Income/Employment"
   },
   {
-    "title": "DD-214 Discharge Papers or COE",
-    "description": "Please upload either your <strong>DD-214</strong> or your <strong>VA Certificate of Eligibility</strong> so we can verify your VA home loan benefit for approval. If you have the Certificate of Eligibility, you can often download it instantly from the VA website using the link provided. When you log in, select the option to request your COE form 26-1880 and download the current letter in your name. If you do not already have a COE, upload your DD-214 instead and we will order the Certificate of Eligibility for you as soon as we receive it.",
+    "title": "VA Certificate of Eligibility (COE) or DD-214",
+    "description": "<strong>VA Certificate of Eligibility (COE) or DD-214</strong>\nPlease upload <strong>either your VA Certificate of Eligibility (COE) or your DD-214</strong> so we can verify your eligibility for a VA home loan.\n\n<strong>Option 1: VA Certificate of Eligibility (COE)</strong>\nIf you already have a COE, please upload a copy. You can also request or download your COE directly from the VA website:\nRequest Your VA Certificate of Eligibility: https://www.va.gov/housing-assistance/home-loans/request-coe-form-26-1880/introduction\n\n1. Sign in to your VA.gov account.\n2. Follow the instructions to request your Certificate of Eligibility (VA Form 26-1880).\n3. Download your COE and upload it here.\n\n<strong>Option 2: DD-214</strong>\nIf you do not have a COE, please upload a <strong>complete, legible copy of your DD-214 (Certificate of Release or Discharge from Active Duty)</strong> instead.\n\nOnce we receive your DD-214, we can request your Certificate of Eligibility on your behalf.",
     "category": "Misc"
   },
   {
