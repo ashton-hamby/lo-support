@@ -80,8 +80,8 @@
     "category": "Asset"
   },
   {
-    "title": "Homeowner's Insurance Quote",
-    "description": "It is time to choose your homeowner’s insurance provider. Please upload a <strong>homeowner’s insurance quote</strong> for the property you are purchasing so we can share the details needed to finalize the policy. The quote needs to include the agent’s name, insurance company, phone number, and email address so our team can reach out and provide anything required for approval without delays.",
+    "title": "Homeowners Insurance Quote",
+    "description": "<strong>Homeowners Insurance Quote</strong>\n\nAs you prepare for your new home purchase, you'll need to select a homeowners insurance provider. <strong>There's no rush on this right now</strong>, but once you've chosen the policy you'd like to move forward with, please upload a copy of the insurance quote.\n\nThe quote should include your <strong>insurance agent's name, insurance company, phone number, and email address</strong> so our team can coordinate with your agent and provide any information needed to finalize the policy.",
     "category": "Property"
   },
   {
