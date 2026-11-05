@@ -35,7 +35,7 @@ catch(err){status.textContent="Copy unavailable. Select the description and copy
 });
 function formatImportedDescription(description){
 const escaped=escapeHtml(description).replace(/&lt;strong&gt;/g,'<strong>').replace(/&lt;\/strong&gt;/g,'</strong>');
-return escaped.replace(/https:\/\/[^\s<]+/g,(match)=>{
+return escaped.replace(/\r\n?|\n/g,'<br>').replace(/https:\/\/[^\s<]+/g,(match)=>{
 const url=match.replace(/[.,;!?]+$/,'');
 const suffix=match.slice(url.length);
 try{const parsed=new URL(url);if(parsed.protocol!=='https:')return match;
