@@ -66,7 +66,7 @@
   },
   {
     "title": "VA Certificate of Eligibility (COE) or DD-214",
-    "description": "<strong>VA Certificate of Eligibility (COE) or DD-214</strong>\nPlease upload <strong>either your VA Certificate of Eligibility (COE) or your DD-214</strong> so we can verify your eligibility for a VA home loan.\n\n<strong>Option 1: VA Certificate of Eligibility (COE)</strong>\nIf you already have a COE, please upload a copy. You can also request or download your COE directly from the VA website:\nRequest Your VA Certificate of Eligibility: https://www.va.gov/housing-assistance/home-loans/request-coe-form-26-1880/introduction\n\n1. Sign in to your VA.gov account.\n2. Follow the instructions to request your Certificate of Eligibility (VA Form 26-1880).\n3. Download your COE and upload it here.\n\n<strong>Option 2: DD-214</strong>\nIf you do not have a COE, please upload a <strong>complete, legible copy of your DD-214 (Certificate of Release or Discharge from Active Duty)</strong> instead.\n\nOnce we receive your DD-214, we can request your Certificate of Eligibility on your behalf.",
+    "description": "Please upload <strong>either your VA Certificate of Eligibility (COE) or your DD-214</strong> so we can verify your eligibility for a VA home loan.\n\n<strong>Option 1: VA Certificate of Eligibility (COE)</strong>\nIf you already have a COE, please upload a copy. You can also request or download your COE directly from the VA website:\nRequest Your VA Certificate of Eligibility: https://www.va.gov/housing-assistance/home-loans/request-coe-form-26-1880/introduction\n\n1. Sign in to your VA.gov account.\n2. Follow the instructions to request your Certificate of Eligibility (VA Form 26-1880).\n3. Download your COE and upload it here.\n\n<strong>Option 2: DD-214</strong>\nIf you do not have a COE, please upload a <strong>complete, legible copy of your DD-214 (Certificate of Release or Discharge from Active Duty)</strong> instead.\n\nOnce we receive your DD-214, we can request your Certificate of Eligibility on your behalf.",
     "category": "Misc"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "title": "Homeowners Insurance Quote",
-    "description": "<strong>Homeowners Insurance Quote</strong>\n\nAs you prepare for your new home purchase, you'll need to select a homeowners insurance provider. <strong>There's no rush on this right now</strong>, but once you've chosen the policy you'd like to move forward with, please upload a copy of the insurance quote.\n\nThe quote should include your <strong>insurance agent's name, insurance company, phone number, and email address</strong> so our team can coordinate with your agent and provide any information needed to finalize the policy.",
+    "description": "As you prepare for your new home purchase, you'll need to select a homeowners insurance provider. <strong>There's no rush on this right now</strong>, but once you've chosen the policy you'd like to move forward with, please upload a copy of the insurance quote.\n\nThe quote should include your <strong>insurance agent's name, insurance company, phone number, and email address</strong> so our team can coordinate with your agent and provide any information needed to finalize the policy.",
     "category": "Property"
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "title": "Utah Veteran First-Time Homebuyer Grant",
-    "description": "Utah Veteran First-Time Homebuyer Grant Please use the link provided to complete the Utah Veteran First-Time Homebuyer Grant application. Once your application has been processed and you receive your <strong>Grant Certification</strong>, please upload a copy here so we can include it in your loan file. Application Link: https://utahgov.na1.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBar- LH5Qmnemeht_lMQa80NJ8fXKJwmVCemYgcsu39rfGP5AQQLVYfUkii34Igcvs",
+    "description": "Please use the link provided to complete the Utah Veteran First-Time Homebuyer Grant application. Once your application has been processed and you receive your <strong>Grant Certification</strong>, please upload a copy here so we can include it in your loan file. Application Link: https://utahgov.na1.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBar- LH5Qmnemeht_lMQa80NJ8fXKJwmVCemYgcsu39rfGP5AQQLVYfUkii34Igcvs",
     "category": "Misc"
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "title": "2 Year Employment History",
-    "description": "We need to document a <strong>full two years of employment history</strong>. Can you please provide the following information for all previous employers since January 2024? -Employer or Business Name -Employer Address -Employer Phone Number -Your Position or Title -Start Date (MM/DD/YY) -End Date (MM/DD/YY)",
+    "description": "We need to document a <strong>full two years of employment history</strong>. Can you please provide the following information for all previous employers since January 2024?\n-Employer or Business Name\n-Employer Address\n-Employer Phone Number\n-Your Position or Title\n-Start Date (MM/DD/YY)\n-End Date (MM/DD/YY)",
     "category": "Income/Employment"
   },
   {
@@ -376,7 +376,7 @@
   },
   {
     "title": "Property Tax Bills – All Properties Owned",
-    "description": "<strong>Property Tax Bills – All Properties Owned</strong>\nPlease upload a copy of the <strong>most recent property tax bill for each property you currently own</strong> so we can verify the current property taxes.\nPlease include <strong>all pages of each tax bill</strong>, even if some pages are blank. Each bill should show the property address, tax year, and amount assessed.\nYou can download official property tax bills from your county property tax website or request copies from your local tax assessor or treasurer's office.",
+    "description": "Please upload a copy of the <strong>most recent property tax bill for each property you currently own</strong> so we can verify the current property taxes.\nPlease include <strong>all pages of each tax bill</strong>, even if some pages are blank. Each bill should show the property address, tax year, and amount assessed.\nYou can download official property tax bills from your county property tax website or request copies from your local tax assessor or treasurer's office.",
     "category": "Property"
   }
 ]
