@@ -125,8 +125,8 @@
     "category": "Borrower Info"
   },
   {
-    "title": "Social Security Notice of Award Letter",
-    "description": "Please upload a clear copy of your <strong>most recent Social Security Notice of Award letter</strong> so we can verify your benefit income for approval. If you do not have a copy on hand, you can download the official benefit letter directly from the Social Security website using the link provided by selecting the option to get your current benefit letter. Provide the full document dated for the current period since we can accept only the official version and not screenshots in place of the actual letter.",
+    "title": "Social Security Benefit Verification Letter",
+    "description": "Please upload your <strong>most recent Social Security Benefit Verification Letter</strong> (sometimes called an award letter) showing your name, benefit type, and current monthly benefit amount so we can verify your income for your loan approval.\n\nYou can download your letter directly from the Social Security Administration:\n\nhttps://www.ssa.gov/myaccount/\n\nSign in to your <strong>my Social Security</strong> account and select <strong>Get a Benefit Verification Letter</strong>. Download the letter as a PDF and upload the complete document to your loan portal.\n\nPlease make sure the letter reflects your <strong>current monthly benefit amount</strong>.",
     "category": "Income/Employment"
   },
   {
